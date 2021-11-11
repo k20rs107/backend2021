@@ -3,5 +3,7 @@
 #btnA{
   font-family: Times;
   border-radius: 20px;
+  position:absolute; top:60px; left:5%; width:40%; height:60px; 
 
 }
+
